@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #111;
+}
+
+#string {
+  height: 100px;
+  width: 100%;
+  background-color: blueviolet;
+  display:  flex; 
+}
+svg{
+   width: 100%;
+   height: 200px;
+}
+#wavePath {
+   width: 100%;
+   height: 100%;
+}
